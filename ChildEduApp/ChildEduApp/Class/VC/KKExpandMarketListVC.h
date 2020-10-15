@@ -1,8 +1,8 @@
 //
-//  KKFindVC.h
+//  KKExpandMarketListVC.h
 //  ChildEduApp
 //
-//  Created by 谢齐 on 2020/10/14.
+//  Created by xintu on 2020/10/15.
 //  Copyright © 2020 谢齐. All rights reserved.
 //
 
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface KKFindVC : KKBaseVC
+@interface KKExpandMarketListVC : KKBaseVC
 
 @end
 

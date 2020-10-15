@@ -23,11 +23,11 @@
 #import "HttpToolFormData.h"
 #import "PDHTTP.h"
 #import "Masonry.h"
-#import "SVProgressHUD.h"
+
 #import "MJExtension.h"
 #import "MJRefresh.h"
 #import "UIImageView+WebCache.h"
-#import "IQKeyboardManager.h"
+//#import "IQKeyboardManager.h"
 #import "UIButton+JKImagePosition.h"
 #import "UIView+JKBlockGesture.h"
 #import "UIView+JKCustomBorder.h"
@@ -35,5 +35,7 @@
 //
 #import "AppDelegate.h"
 #import "GKCover.h"
+
+#import "KKBaseVC.h"
 
 #endif /* AppHeader_h */
