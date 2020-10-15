@@ -132,6 +132,21 @@
 		8E15223925374C5D00CDB51D /* HSSessionModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E15223225374C5D00CDB51D /* HSSessionModel.m */; };
 		8E15223A25374C5D00CDB51D /* NSString+Hash.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E15223425374C5D00CDB51D /* NSString+Hash.m */; };
 		8E15223B25374C5D00CDB51D /* HSDownloadManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E15223825374C5D00CDB51D /* HSDownloadManager.m */; };
+		8E5AA2812538918B0031939F /* LGAudioPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E5AA2632538918B0031939F /* LGAudioPlayer.m */; };
+		8E5AA2822538918B0031939F /* toast_vol_5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E5AA2662538918B0031939F /* toast_vol_5@2x.png */; };
+		8E5AA2832538918B0031939F /* toast_vol_7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E5AA2672538918B0031939F /* toast_vol_7@2x.png */; };
+		8E5AA2842538918B0031939F /* toast_vol_3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E5AA2682538918B0031939F /* toast_vol_3@2x.png */; };
+		8E5AA2852538918B0031939F /* toast_microphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E5AA2692538918B0031939F /* toast_microphone@2x.png */; };
+		8E5AA2862538918B0031939F /* toast_vol_1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E5AA26A2538918B0031939F /* toast_vol_1@2x.png */; };
+		8E5AA2872538918B0031939F /* toast_vol_4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E5AA26B2538918B0031939F /* toast_vol_4@2x.png */; };
+		8E5AA2882538918B0031939F /* toast_vol_6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E5AA26C2538918B0031939F /* toast_vol_6@2x.png */; };
+		8E5AA2892538918B0031939F /* toast_cancelsend@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E5AA26D2538918B0031939F /* toast_cancelsend@2x.png */; };
+		8E5AA28A2538918B0031939F /* toast_vol_2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E5AA26E2538918B0031939F /* toast_vol_2@2x.png */; };
+		8E5AA28B2538918B0031939F /* toast_timeshort@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E5AA26F2538918B0031939F /* toast_timeshort@2x.png */; };
+		8E5AA28C2538918B0031939F /* LGSoundRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E5AA2712538918B0031939F /* LGSoundRecorder.m */; };
+		8E5AA28D2538918B0031939F /* libopencore-amrwb.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E5AA27E2538918B0031939F /* libopencore-amrwb.a */; };
+		8E5AA28E2538918B0031939F /* libopencore-amrnb.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E5AA27F2538918B0031939F /* libopencore-amrnb.a */; };
+		8E5AA28F2538918B0031939F /* amrFileCodec.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E5AA2802538918B0031939F /* amrFileCodec.m */; };
 		D972259B2537D7E500C3D898 /* KKExpandMarketListVC.m in Sources */ = {isa = PBXBuildFile; fileRef = D972259A2537D7E500C3D898 /* KKExpandMarketListVC.m */; };
 		D972259E2537D7FD00C3D898 /* KKBaseVC.m in Sources */ = {isa = PBXBuildFile; fileRef = D972259C2537D7FD00C3D898 /* KKBaseVC.m */; };
 		D97225A12537D94900C3D898 /* KKExpandMarketDetailVC.m in Sources */ = {isa = PBXBuildFile; fileRef = D97225A02537D94900C3D898 /* KKExpandMarketDetailVC.m */; };
@@ -428,6 +443,29 @@
 		8E15223625374C5D00CDB51D /* HSDownloadManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSDownloadManager.h; sourceTree = "<group>"; };
 		8E15223725374C5D00CDB51D /* HSSessionModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSSessionModel.h; sourceTree = "<group>"; };
 		8E15223825374C5D00CDB51D /* HSDownloadManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HSDownloadManager.m; sourceTree = "<group>"; };
+		8E5AA2612538918B0031939F /* LGAudioKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGAudioKit.h; sourceTree = "<group>"; };
+		8E5AA2632538918B0031939F /* LGAudioPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGAudioPlayer.m; sourceTree = "<group>"; };
+		8E5AA2642538918B0031939F /* LGAudioPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGAudioPlayer.h; sourceTree = "<group>"; };
+		8E5AA2662538918B0031939F /* toast_vol_5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toast_vol_5@2x.png"; sourceTree = "<group>"; };
+		8E5AA2672538918B0031939F /* toast_vol_7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toast_vol_7@2x.png"; sourceTree = "<group>"; };
+		8E5AA2682538918B0031939F /* toast_vol_3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toast_vol_3@2x.png"; sourceTree = "<group>"; };
+		8E5AA2692538918B0031939F /* toast_microphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toast_microphone@2x.png"; sourceTree = "<group>"; };
+		8E5AA26A2538918B0031939F /* toast_vol_1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toast_vol_1@2x.png"; sourceTree = "<group>"; };
+		8E5AA26B2538918B0031939F /* toast_vol_4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toast_vol_4@2x.png"; sourceTree = "<group>"; };
+		8E5AA26C2538918B0031939F /* toast_vol_6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toast_vol_6@2x.png"; sourceTree = "<group>"; };
+		8E5AA26D2538918B0031939F /* toast_cancelsend@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toast_cancelsend@2x.png"; sourceTree = "<group>"; };
+		8E5AA26E2538918B0031939F /* toast_vol_2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toast_vol_2@2x.png"; sourceTree = "<group>"; };
+		8E5AA26F2538918B0031939F /* toast_timeshort@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toast_timeshort@2x.png"; sourceTree = "<group>"; };
+		8E5AA2712538918B0031939F /* LGSoundRecorder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGSoundRecorder.m; sourceTree = "<group>"; };
+		8E5AA2722538918B0031939F /* LGSoundRecorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGSoundRecorder.h; sourceTree = "<group>"; };
+		8E5AA2752538918B0031939F /* amrFileCodec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = amrFileCodec.h; sourceTree = "<group>"; };
+		8E5AA2782538918B0031939F /* if_rom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = if_rom.h; sourceTree = "<group>"; };
+		8E5AA2792538918B0031939F /* dec_if.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dec_if.h; sourceTree = "<group>"; };
+		8E5AA27B2538918B0031939F /* interf_dec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = interf_dec.h; sourceTree = "<group>"; };
+		8E5AA27C2538918B0031939F /* interf_enc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = interf_enc.h; sourceTree = "<group>"; };
+		8E5AA27E2538918B0031939F /* libopencore-amrwb.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libopencore-amrwb.a"; sourceTree = "<group>"; };
+		8E5AA27F2538918B0031939F /* libopencore-amrnb.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libopencore-amrnb.a"; sourceTree = "<group>"; };
+		8E5AA2802538918B0031939F /* amrFileCodec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = amrFileCodec.m; sourceTree = "<group>"; };
 		D97225992537D7E500C3D898 /* KKExpandMarketListVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KKExpandMarketListVC.h; sourceTree = "<group>"; };
 		D972259A2537D7E500C3D898 /* KKExpandMarketListVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KKExpandMarketListVC.m; sourceTree = "<group>"; };
 		D972259C2537D7FD00C3D898 /* KKBaseVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KKBaseVC.m; sourceTree = "<group>"; };
@@ -519,6 +557,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E5AA28D2538918B0031939F /* libopencore-amrwb.a in Frameworks */,
+				8E5AA28E2538918B0031939F /* libopencore-amrnb.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -605,6 +645,7 @@
 		8E1520C425373FB000CDB51D /* Tools */ = {
 			isa = PBXGroup;
 			children = (
+				8E5AA2602538918B0031939F /* LGSound */,
 				D97226172537E52B00C3D898 /* SVProgressHUD */,
 				D97225C42537E4E200C3D898 /* HttpToll */,
 				D97225B62537DC6600C3D898 /* iCarousel */,
@@ -1025,6 +1066,108 @@
 			path = MD5;
 			sourceTree = "<group>";
 		};
+		8E5AA2602538918B0031939F /* LGSound */ = {
+			isa = PBXGroup;
+			children = (
+				8E5AA2612538918B0031939F /* LGAudioKit.h */,
+				8E5AA2622538918B0031939F /* LGSoundPlayer */,
+				8E5AA2652538918B0031939F /* Resource */,
+				8E5AA2702538918B0031939F /* LGSoundRecorder */,
+				8E5AA2732538918B0031939F /* Vendor */,
+			);
+			path = LGSound;
+			sourceTree = "<group>";
+		};
+		8E5AA2622538918B0031939F /* LGSoundPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				8E5AA2632538918B0031939F /* LGAudioPlayer.m */,
+				8E5AA2642538918B0031939F /* LGAudioPlayer.h */,
+			);
+			path = LGSoundPlayer;
+			sourceTree = "<group>";
+		};
+		8E5AA2652538918B0031939F /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				8E5AA2662538918B0031939F /* toast_vol_5@2x.png */,
+				8E5AA2672538918B0031939F /* toast_vol_7@2x.png */,
+				8E5AA2682538918B0031939F /* toast_vol_3@2x.png */,
+				8E5AA2692538918B0031939F /* toast_microphone@2x.png */,
+				8E5AA26A2538918B0031939F /* toast_vol_1@2x.png */,
+				8E5AA26B2538918B0031939F /* toast_vol_4@2x.png */,
+				8E5AA26C2538918B0031939F /* toast_vol_6@2x.png */,
+				8E5AA26D2538918B0031939F /* toast_cancelsend@2x.png */,
+				8E5AA26E2538918B0031939F /* toast_vol_2@2x.png */,
+				8E5AA26F2538918B0031939F /* toast_timeshort@2x.png */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		8E5AA2702538918B0031939F /* LGSoundRecorder */ = {
+			isa = PBXGroup;
+			children = (
+				8E5AA2712538918B0031939F /* LGSoundRecorder.m */,
+				8E5AA2722538918B0031939F /* LGSoundRecorder.h */,
+			);
+			path = LGSoundRecorder;
+			sourceTree = "<group>";
+		};
+		8E5AA2732538918B0031939F /* Vendor */ = {
+			isa = PBXGroup;
+			children = (
+				8E5AA2742538918B0031939F /* AMR */,
+			);
+			path = Vendor;
+			sourceTree = "<group>";
+		};
+		8E5AA2742538918B0031939F /* AMR */ = {
+			isa = PBXGroup;
+			children = (
+				8E5AA2752538918B0031939F /* amrFileCodec.h */,
+				8E5AA2762538918B0031939F /* include */,
+				8E5AA27D2538918B0031939F /* lib */,
+				8E5AA2802538918B0031939F /* amrFileCodec.m */,
+			);
+			path = AMR;
+			sourceTree = "<group>";
+		};
+		8E5AA2762538918B0031939F /* include */ = {
+			isa = PBXGroup;
+			children = (
+				8E5AA2772538918B0031939F /* opencore-amrwb */,
+				8E5AA27A2538918B0031939F /* opencore-amrnb */,
+			);
+			path = include;
+			sourceTree = "<group>";
+		};
+		8E5AA2772538918B0031939F /* opencore-amrwb */ = {
+			isa = PBXGroup;
+			children = (
+				8E5AA2782538918B0031939F /* if_rom.h */,
+				8E5AA2792538918B0031939F /* dec_if.h */,
+			);
+			path = "opencore-amrwb";
+			sourceTree = "<group>";
+		};
+		8E5AA27A2538918B0031939F /* opencore-amrnb */ = {
+			isa = PBXGroup;
+			children = (
+				8E5AA27B2538918B0031939F /* interf_dec.h */,
+				8E5AA27C2538918B0031939F /* interf_enc.h */,
+			);
+			path = "opencore-amrnb";
+			sourceTree = "<group>";
+		};
+		8E5AA27D2538918B0031939F /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				8E5AA27E2538918B0031939F /* libopencore-amrwb.a */,
+				8E5AA27F2538918B0031939F /* libopencore-amrnb.a */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
 		D97225A52537D9FA00C3D898 /* HXTagView */ = {
 			isa = PBXGroup;
 			children = (
@@ -1270,14 +1413,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E1520AE25373B8200CDB51D /* LaunchScreen.storyboard in Resources */,
+				8E5AA2882538918B0031939F /* toast_vol_6@2x.png in Resources */,
 				8E1522202537434A00CDB51D /* KKEMHCollectionCellTwo.xib in Resources */,
+				8E5AA2852538918B0031939F /* toast_microphone@2x.png in Resources */,
+				8E5AA2822538918B0031939F /* toast_vol_5@2x.png in Resources */,
 				8E1522302537481700CDB51D /* KKEMHCollectionCellFive.xib in Resources */,
 				8E15221B2537433800CDB51D /* KKEMHCollectionCellOne.xib in Resources */,
 				8E1520AB25373B8200CDB51D /* Assets.xcassets in Resources */,
 				8E15222A253743F100CDB51D /* KKEMHCollectionCellFour.xib in Resources */,
 				8E1522252537435B00CDB51D /* KKEMHCollectionCellThree.xib in Resources */,
+				8E5AA2842538918B0031939F /* toast_vol_3@2x.png in Resources */,
 				D97226252537E52B00C3D898 /* SVProgressHUD.bundle in Resources */,
+				8E5AA28A2538918B0031939F /* toast_vol_2@2x.png in Resources */,
 				8E15213125373FE100CDB51D /* MJRefresh.bundle in Resources */,
+				8E5AA28B2538918B0031939F /* toast_timeshort@2x.png in Resources */,
+				8E5AA2862538918B0031939F /* toast_vol_1@2x.png in Resources */,
+				8E5AA2892538918B0031939F /* toast_cancelsend@2x.png in Resources */,
+				8E5AA2872538918B0031939F /* toast_vol_4@2x.png in Resources */,
+				8E5AA2832538918B0031939F /* toast_vol_7@2x.png in Resources */,
 				8E1520A925373B8000CDB51D /* Main.storyboard in Resources */,
 				8E152216253742F500CDB51D /* KKEMHReusableView.xib in Resources */,
 				8E152211253742B800CDB51D /* KKExpandMarkHeaderView.xib in Resources */,
@@ -1345,6 +1498,7 @@
 				8E1521FC253740C200CDB51D /* SDWebImageCompat.m in Sources */,
 				8E1521962537401400CDB51D /* UIView+JKCustomBorder.m in Sources */,
 				8E1521F9253740C200CDB51D /* UIImage+GIF.m in Sources */,
+				8E5AA2812538918B0031939F /* LGAudioPlayer.m in Sources */,
 				8E15223925374C5D00CDB51D /* HSSessionModel.m in Sources */,
 				8E15212725373FE100CDB51D /* MASCompositeConstraint.m in Sources */,
 				8E1520A025373B8000CDB51D /* AppDelegate.m in Sources */,
@@ -1403,11 +1557,13 @@
 				D97226152537E4E300C3D898 /* AFNetworkReachabilityManager.m in Sources */,
 				D97225B32537DA1500C3D898 /* HXTagCollectionViewCell.m in Sources */,
 				D97226212537E52B00C3D898 /* SVRadialGradientLayer.m in Sources */,
+				8E5AA28C2538918B0031939F /* LGSoundRecorder.m in Sources */,
 				8E15216225373FE800CDB51D /* NSDictionary+Safe.m in Sources */,
 				D972260B2537E4E300C3D898 /* AFNetworkActivityIndicatorManager.m in Sources */,
 				8E15214425373FE100CDB51D /* NSObject+MJKeyValue.m in Sources */,
 				8E15216C2537400600CDB51D /* Player.m in Sources */,
 				8E152205253740C200CDB51D /* UIImageView+WebCache.m in Sources */,
+				8E5AA28F2538918B0031939F /* amrFileCodec.m in Sources */,
 				8E15212F25373FE100CDB51D /* UIScrollView+MJRefresh.m in Sources */,
 				8E1521A5253740AF00CDB51D /* GKCover.m in Sources */,
 				8E15212A25373FE100CDB51D /* NSArray+MASAdditions.m in Sources */,
@@ -1592,6 +1748,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/ChildEduApp/Class/Tools/LGSound/Vendor/AMR/lib",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tusm.abcTest.ChildEduApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1610,6 +1770,10 @@
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/ChildEduApp/Class/Tools/LGSound/Vendor/AMR/lib",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tusm.abcTest.ChildEduApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
